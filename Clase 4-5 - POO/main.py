@@ -1,4 +1,3 @@
-# archivo: main.py
 from cuenta_ahorro import CuentaAhorro
 
 cuenta = CuentaAhorro("María", 44444444, "1995/05/10", 10000)

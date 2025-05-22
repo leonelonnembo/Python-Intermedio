@@ -1,4 +1,3 @@
-# archivo: cb.py
 from abc import ABC, abstractmethod
 from datetime import date, datetime
 

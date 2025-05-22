@@ -1,4 +1,3 @@
-# archivo: cuenta_ahorro.py
 from cb import CuentaBancaria
 
 class CuentaAhorro(CuentaBancaria):
